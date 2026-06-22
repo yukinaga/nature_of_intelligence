@@ -1,2 +1,2 @@
-# nature_of_intelligence
+# 「知能の本質」とは何か？
 知性の本質とは何か？
